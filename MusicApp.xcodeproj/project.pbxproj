@@ -117,9 +117,9 @@
 			isa = PBXGroup;
 			children = (
 				29A4EFD12235941200A8F5AC /* Constant */,
-				29A4EFB92233BACB00A8F5AC /* Music Player */,
+				29A4EFB92233BACB00A8F5AC /* MusicPlayer */,
 				29A4EF9922329E9A00A8F5AC /* Search Scene */,
-				29A4EF9322329A8200A8F5AC /* View Protocol */,
+				29A4EF9322329A8200A8F5AC /* ViewProtocol */,
 				29A4EF8A2232996700A8F5AC /* Network */,
 				29A4EF872232994700A8F5AC /* Extention */,
 				29A4EF822232991200A8F5AC /* AppCordinator */,
@@ -162,12 +162,12 @@
 			path = Network;
 			sourceTree = "<group>";
 		};
-		29A4EF9322329A8200A8F5AC /* View Protocol */ = {
+		29A4EF9322329A8200A8F5AC /* ViewProtocol */ = {
 			isa = PBXGroup;
 			children = (
 				29A4EF9422329A9300A8F5AC /* UIView + Xib + Protocol.swift */,
 			);
-			name = "View Protocol";
+			name = ViewProtocol;
 			path = "New Group";
 			sourceTree = "<group>";
 		};
@@ -236,7 +236,7 @@
 			path = Coordinator;
 			sourceTree = "<group>";
 		};
-		29A4EFB92233BACB00A8F5AC /* Music Player */ = {
+		29A4EFB92233BACB00A8F5AC /* MusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
 				29A4EFBE2233BAFE00A8F5AC /* View */,
@@ -245,7 +245,7 @@
 				29A4EFBB2233BADB00A8F5AC /* Model */,
 				29A4EFBA2233BAD500A8F5AC /* Controller */,
 			);
-			path = "Music Player";
+			path = MusicPlayer;
 			sourceTree = "<group>";
 		};
 		29A4EFBA2233BAD500A8F5AC /* Controller */ = {
