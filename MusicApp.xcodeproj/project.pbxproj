@@ -116,10 +116,10 @@
 		29A4EF6F223298FD00A8F5AC /* MusicApp */ = {
 			isa = PBXGroup;
 			children = (
+				29A4EFD42235A12500A8F5AC /* View Protocol */,
 				29A4EFD12235941200A8F5AC /* Constant */,
 				29A4EFB92233BACB00A8F5AC /* MusicPlayer */,
 				29A4EF9922329E9A00A8F5AC /* Search Scene */,
-				29A4EF9322329A8200A8F5AC /* ViewProtocol */,
 				29A4EF8A2232996700A8F5AC /* Network */,
 				29A4EF872232994700A8F5AC /* Extention */,
 				29A4EF822232991200A8F5AC /* AppCordinator */,
@@ -160,15 +160,6 @@
 				29A4EF8D2232998500A8F5AC /* APIService.swift */,
 			);
 			path = Network;
-			sourceTree = "<group>";
-		};
-		29A4EF9322329A8200A8F5AC /* ViewProtocol */ = {
-			isa = PBXGroup;
-			children = (
-				29A4EF9422329A9300A8F5AC /* UIView + Xib + Protocol.swift */,
-			);
-			name = ViewProtocol;
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		29A4EF9622329AA500A8F5AC /* Requests */ = {
@@ -295,6 +286,14 @@
 				29A4EFD22235946000A8F5AC /* Constant.swift */,
 			);
 			path = Constant;
+			sourceTree = "<group>";
+		};
+		29A4EFD42235A12500A8F5AC /* View Protocol */ = {
+			isa = PBXGroup;
+			children = (
+				29A4EF9422329A9300A8F5AC /* UIView + Xib + Protocol.swift */,
+			);
+			path = "View Protocol";
 			sourceTree = "<group>";
 		};
 		5670E62350CF426AD72DF2FF /* Frameworks */ = {
